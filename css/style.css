@@ -2,6 +2,10 @@
     background: url("https://www.document.no/wp-content/uploads/2020/06/ntb-6-co0tkmwq4.jpg")no-repeat center center;
     background-size: cover;
 }
+.intro-3 {
+    background: url("https://images.unsplash.com/flagged/photo-1584036561584-b03c19da874c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9")no-repeat center center;
+    background-size: cover;
+}
 html,
 body,
 header,
